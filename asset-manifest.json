@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/address-book/static/css/main.2c660506.chunk.css",
+    "main.js": "/address-book/static/js/main.626f9501.chunk.js",
+    "main.js.map": "/address-book/static/js/main.626f9501.chunk.js.map",
+    "runtime-main.js": "/address-book/static/js/runtime-main.3dc63ab6.js",
+    "runtime-main.js.map": "/address-book/static/js/runtime-main.3dc63ab6.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/address-book/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.b10f41a4.chunk.js": "/address-book/static/js/2.b10f41a4.chunk.js",
+    "static/js/2.b10f41a4.chunk.js.map": "/address-book/static/js/2.b10f41a4.chunk.js.map",
+    "static/js/3.22642851.chunk.js": "/address-book/static/js/3.22642851.chunk.js",
+    "static/js/3.22642851.chunk.js.map": "/address-book/static/js/3.22642851.chunk.js.map",
+    "index.html": "/address-book/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/address-book/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.2c660506.chunk.css.map": "/address-book/static/css/main.2c660506.chunk.css.map",
+    "static/js/2.b10f41a4.chunk.js.LICENSE.txt": "/address-book/static/js/2.b10f41a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dc63ab6.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.b10f41a4.chunk.js",
+    "static/css/main.2c660506.chunk.css",
+    "static/js/main.626f9501.chunk.js"
+  ]
+}
